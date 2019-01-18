@@ -750,7 +750,7 @@ a:hover.button_tad{
 .pd_l_38{padding-left:38px;}
 .pd_l_44{padding-left:44px;}
 .pd_l_115{padding-left:115px;}
-.pd_0_10{padding;0 10px;}
+.pd_0_10{padding:0 10px;}
 .pd_b_5{padding-bottom:5px;}
 .pd_b_10{padding-bottom:10px;}
 .pd_b_12{padding-bottom:12px;}
@@ -788,6 +788,8 @@ a:hover.button_tad{
 .mg_l_40{margin-left:40px;}
 .mg_l_57{margin-left:57px;}
 .mg_l_65{margin-left:65px;}
+.mg_r-12{margin-right:-12px;}
+.mg_r_2{margin-right:2px;}
 .mg_r_10{margin-right:10px;}
 .mg_r_20{margin-right:20px;}
 .mg_r_30{margin-right:30px;}
